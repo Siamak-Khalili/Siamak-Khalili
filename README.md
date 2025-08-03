@@ -10,8 +10,9 @@
 
 ## <div align="center">🌟 About Me</div>
 
+
 <div align="center">
-  <img src="assets/Developer.gif" alt="Lottie Animation" width="100%">
+  <img src="assets/Developer.gif" alt="Lottie Animation" style="width: 100%; height: 650px; object-fit: cover; object-position: center;">
 </div>
 
 ```javascript
