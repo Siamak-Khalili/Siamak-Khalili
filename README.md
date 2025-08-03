@@ -1,4 +1,4 @@
-# <div align="center">🚀 Welcome to My Digital Universe! 🚀</div>
+# <div align="center">Welcome to My Digital Universe!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Turning+Ideas+into+Reality;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 ## <div align="center">🌟 About Me</div>
 
 <div align="center">
-  <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF">
+  <img src="rttDT1FujL.gif" alt="Lottie Animation" width="100%">
 </div>
 
 ```javascript
@@ -109,6 +109,4 @@ const developer = {
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+*I love connecting with different people so if you want to say hi, I'll be happy to meet you more!*
