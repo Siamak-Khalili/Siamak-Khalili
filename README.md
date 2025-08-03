@@ -15,6 +15,10 @@
   <img src="assets/Developer.gif" alt="Lottie Animation" style="width: 100%; height: 650px; object-fit: cover; object-position: center;">
 </div>
 
+<div align="center" style="width: 100%;">
+  <img src="assets/Developer.gif" alt="Lottie Animation" style="width: 100%; max-width: 100%; height: 650px; object-fit: cover; object-position: center; display: block; margin: 0 auto;">
+</div>
+
 ```javascript
 const developer = {
     name: "Siamak Khalili",
