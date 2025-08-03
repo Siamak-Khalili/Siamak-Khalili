@@ -11,7 +11,7 @@
 ## <div align="center">🌟 About Me</div>
 
 <div align="center">
-  [View Lottie Animation](https://lottie.host/embed/e6d374b7-3d78-4229-ae18-866ae9a4bafe/dYk8gVEHVu.lottie)
+  <img src="assets/Developer.gif" alt="Lottie Animation" width="100%">
 </div>
 
 ```javascript
