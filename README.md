@@ -110,5 +110,6 @@ const developer = {
 *Thanks for visiting! Let's build something incredible together! ⭐*
 
 </div>
-
+<div align="center">
 *I love connecting with different people so if you want to say hi, I'll be happy to meet you more!*
+</div>
