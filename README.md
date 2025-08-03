@@ -11,7 +11,7 @@
 ## <div align="center">🌟 About Me</div>
 
 
-<div style="width: 100%; text-align: center;">    width: 100vw;
+<div style="width: 100%; text-align: center;">  
   <img src="assets/Developer.gif" alt="Lottie Animation" style="width: 100vw; max-width: 100%; height: 500px; object-fit: cover; object-position: 0 40%; display: block; margin: 0 auto;">
 </div>
 
